@@ -1,3 +1,3 @@
 # git-bandymas
 
-Project description
+project description
